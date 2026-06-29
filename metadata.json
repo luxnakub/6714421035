@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Game Start Menu",
+  "description": "A full-screen game start menu with a logo, start game button, and options to adjust keybindings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
